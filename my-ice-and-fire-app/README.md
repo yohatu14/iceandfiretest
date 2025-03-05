@@ -37,7 +37,7 @@ Then, open [**http://localhost:3000**](http://localhost:3000) in your browser.
 │   ├── hooks/        # Custom hooks
 │   ├── utils/        # Utility functions
 │   └── types/        # TypeScript types
-│   └── utils/        # Complement resources
+│   └── lib/          # Complement resources
 ├── public/           # Static assets
 ├── package.json      # Project dependencies and scripts
 ├── next.config.js    # Next.js configuration
