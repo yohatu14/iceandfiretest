@@ -1,4 +1,4 @@
-# Ice and Fire Testing Wizeline by Yohana Tunarrosa
+# Ice and Fire Test - Wizeline by Yohana Tunarrosa
 
 This is a [**Next.js**](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
