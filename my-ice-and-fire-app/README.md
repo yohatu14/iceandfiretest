@@ -82,7 +82,7 @@ pnpm start
 - 
 ---
 
-### 🎯 Improvements
+### 🚀 Improvements
 
 - Unit Testing to test individual components and their functions.
 - Implement React Query to manage API services, data fetching, and caching.
