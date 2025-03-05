@@ -18,6 +18,13 @@ Clone the repository and install dependencies:
 ```bash
 pnpm install
 ```
+## ⚙️ Environment Variables
+
+Create a `.env.local` file and add the necessary environment variables:
+
+```
+NEXT_PUBLIC_API_URL=your_api_url_here
+```
 
 ### Running the Development Server
 
@@ -26,6 +33,7 @@ Start the development server:
 ```bash
 pnpm dev
 ```
+
 Then, open [**http://localhost:3000**](http://localhost:3000) in your browser.
 
 ## 📁 Project Structure
@@ -47,13 +55,6 @@ Then, open [**http://localhost:3000**](http://localhost:3000) in your browser.
 └── README.md         # Project documentation
 ```
 
-## ⚙️ Environment Variables
-
-Create a `.env.local` file and add the necessary environment variables:
-
-```
-NEXT_PUBLIC_API_URL=your_api_url_here
-```
 
 ## 📦 Building for Production
 
