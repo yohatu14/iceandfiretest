@@ -72,7 +72,7 @@ pnpm start
 
 ## 🛠 Technologies Used
 
-- **Next.js** – React framework for server-side rendering & static site generation
+- **Next.js 15.0** – React framework for server-side rendering & static site generation
 - **TypeScript** – Strongly typed JavaScript
 - **Tailwind CSS** – Utility-first CSS framework
 - **Framer Motion** – Animations and transitions
@@ -81,6 +81,14 @@ pnpm start
 - **shadcn** – UI components for modern React applications
 - 
 ---
+
+### 🎯 Improvements
+
+- Unit Testing to test individual components and their functions.
+- Implement React Query to manage API services, data fetching, and caching.
+- Implement the Provider Pattern or State Management.
+- Implement server-side rendering (SSR) for better performance.
+- Global styling theme by modifying the Tailwind configuration file. 
 
 ### 🎯 Contributions & Feedback
 
